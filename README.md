@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @felipmz
-- 👀 I’m interested in  aprender  e ganhar  experi
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m felipe menezes
+- 👀 I’m interested in gain experience and improve my skills
+- 🌱 I’m currently learning java script,python,HTML,CSS 
+- 📫 How to reach me @felip.mz on instagram 
 
 <!---
 felipmz/felipmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
