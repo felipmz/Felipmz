@@ -1,9 +1,6 @@
-- 👋 Hi, I’m felipe menezes
-- 👀 I’m interested in gain experience and improve my skills
-- 🌱 I’m currently learning java script,python,HTML,CSS 
-- 📫 How to reach me @felip.mz on instagram 
+Seja bem vindo ao meu perfil! eu sou Felipe Menezes
 
-<!---
-felipmz/felipmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+° Desenvolvedor front end
+° Estudando " javascript, react, python"
+° Contate-me por: felipemenezzees@gmail.com
+° Conheça o meu instagram: @felip.mz
