@@ -1,7 +1,7 @@
 ## Seja bem vindo ao meu perfil! eu sou Felipe Menezes
 
 - Desenvolvedor front end
-- Estudando " javascript, react, python"
+- Estudando atualmente: javascript, react
 
 ##
 
