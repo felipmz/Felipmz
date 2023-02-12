@@ -1,4 +1,5 @@
-## Seja bem vindo ao meu perfil! eu sou Felipe Menezes
+## Seja bem vindo ao meu perfil! 
+## Eu sou Felipe Menezes
 
 - Desenvolvedor front end
 - Estudando atualmente: javascript, react
