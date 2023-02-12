@@ -1,5 +1,5 @@
 ## Seja bem vindo ao meu perfil! 
- <h2>Eu sou Felipe Menezes</h2>
+ <h3>Eu sou Felipe Menezes</h3>
 
 - Desenvolvedor front end
 - Estudando atualmente: javascript, react
