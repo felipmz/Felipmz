@@ -1,7 +1,7 @@
 ## Welcome to my profile ! 
 <h3>I'm Felipe Menezes</h3>
 
-- Developer front end
+- Front end developer 
 - Currently studying: javascript, react
 
 ##
