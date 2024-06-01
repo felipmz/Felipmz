@@ -1,6 +1,6 @@
 ##  
-<h1>Welcome to my profile !</h1>
-<h3>I'm Felipe Menezes, Web developer</h3>
+<h1>Bem vindo ao meu perfil !</h1>
+<h3>Meu nome é Felipe Menezes, desenvolvedor Webr</h3>
  
 - Front-end Dev
 - HTML, CSS, javascript, react.
@@ -15,7 +15,7 @@
 <div> 
   
  ##
-<div style="display: inline_block"><h3>My skills:</h3><br><!--emojis das liguagens que trabalho-->
+<div style="display: inline_block"><h3>Minhas habilidades:</h3><br><!--emojis das liguagens que trabalho-->
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,7 +26,7 @@
 
  ##
 
-<h3>Get in touch:</h3>
+<h3>Entrar em contato:</h3>
 <div><!--botões para contato\redes sociais-->
   
   <a href = "mailto:felipemenezzees@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
