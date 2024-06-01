@@ -1,6 +1,6 @@
 ## Welcome to my profile ! 
-<h3>I'm Felipe Menezes</h3>
-<h4>Front-end Dev</h4>
+<h1>I'm Felipe Menezes</h1>
+<h2>Front-end Dev</h2>
 
 - Web developer 
 - HTML, CSS, javascript, react.
