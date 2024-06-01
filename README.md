@@ -2,7 +2,7 @@
 <h1>Seja bem vindo ao meu perfil !</h1>
 <h3>Meu nome é Felipe Menezes, desenvolvedor Web</h3>
  
-- Front-end Dev
+- Dev front-end 
 - HTML, CSS, javascript, react.
 
 ##
