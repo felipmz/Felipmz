@@ -16,7 +16,7 @@
   
  ##
 <div style="display: inline_block"><br><!--emojis das liguagens que trabalho-->
-  <h1>tecnologias que eu trabalho</h1>
+  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,7 @@
 
  ##
 
-
+<h1>Entre em contato</h1>
 <div><!--botões para contato\redes sociais-->
   
   <a href = "mailto:felipemenezzees@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
