@@ -1,5 +1,5 @@
 ##  
-<h1>Bem vindo ao meu perfil !</h1>
+<h1>Seja bem vindo ao meu perfil !</h1>
 <h3>Meu nome é Felipe Menezes, desenvolvedor Webr</h3>
  
 - Front-end Dev
