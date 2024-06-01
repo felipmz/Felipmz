@@ -1,8 +1,9 @@
 ## Welcome to my profile ! 
 <h3>I'm Felipe Menezes</h3>
+<h2>Front-end Dev</h2>
 
-- Front end developer 
-- Currently studying: javascript, react
+- Web developer 
+- HTML, CSS, javascript, react.
 
 ##
 <div><!--informações das liguagens mais usadas-->
