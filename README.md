@@ -15,7 +15,7 @@
 <div> 
   
  ##
-<div style="display: inline_block"><br><!--emojis das liguagens que trabalho-->
+<div style="display: inline_block"><h1>Minhas habilidades:</h1><br><!--emojis das liguagens que trabalho-->
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
