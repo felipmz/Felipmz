@@ -26,7 +26,7 @@
 
  ##
 
-<h1>Entre em contato</h1>
+<h1>Entre em contato:</h1>
 <div><!--botões para contato\redes sociais-->
   
   <a href = "mailto:felipemenezzees@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
