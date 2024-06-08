@@ -23,7 +23,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thushan Dananjana" height="30" width="20" src="https://miro.medium.com/v2/resize:fit:400/1*ymOY1JGxinEMxxHkqI0T7Q.png">
+  <img align="center" alt="Thushan Dananjana" height="30" width="28" src="https://miro.medium.com/v2/resize:fit:400/1*ymOY1JGxinEMxxHkqI0T7Q.png">
 </div>
 
  ##
