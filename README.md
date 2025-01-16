@@ -4,7 +4,7 @@
 
 
 - Dev front-end 
-- HTML, CSS, javascript, react, Jquery.
+- HTML, CSS, javascript.
 
 ##
 <div><!--informações das liguagens mais usadas-->
