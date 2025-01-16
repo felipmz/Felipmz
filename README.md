@@ -3,7 +3,6 @@
 <h3>Meu nome é Felipe Menezes, desenvolvedor Web</h3>
 
 
-- Dev front-end 
 - HTML, CSS, javascript.
 
 ##
