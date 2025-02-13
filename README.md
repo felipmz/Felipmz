@@ -3,7 +3,7 @@
 <h3>Meu nome é Felipe Menezes, desenvolvedor Web</h3>
 
 
-- HTML, CSS, javascript,JAVA,Python.
+- React,JAVA,Python.
 
 ##
 <div><!--informações das liguagens mais usadas-->
