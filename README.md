@@ -3,7 +3,7 @@
 <h3>Meu nome é Felipe Menezes, desenvolvedor full stack</h3>
 
 
-- JavaScript,JAVA,Python,MySQL.
+- JavaScript,JAVA,TypeScript,React,SpringBoot,MySQL.
 
 ##
 <div><!--informações das liguagens mais usadas-->
