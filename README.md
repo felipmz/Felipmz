@@ -19,7 +19,7 @@
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://spring.io/img/projects/spring-boot.svg">
-  <img align="center" alt="Rafa-CSS" width="40" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png">
+  <img align="center" alt="Rafa-CSS" width="30" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Rafa-Python" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
