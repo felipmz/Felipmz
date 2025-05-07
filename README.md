@@ -1,6 +1,6 @@
 ##  
 <h1>Seja bem vindo ao meu perfil !</h1>
-<h3>Meu nome é Felipe Menezes, desenvolvedor full-stack</h3>
+<h3>Meu nome é Felipe Menezes, desenvolvedor fullstack</h3>
 
 
 - JavaScript,JAVA,TypeScript,React,SpringBoot,MySQL,Python.
