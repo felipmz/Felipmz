@@ -18,7 +18,7 @@
 <div style="display: inline_block"><h3>Minhas habilidades:</h3><br><!--emojis das liguagens que trabalho-->
   
   <img align="center" alt="#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="#" width="30" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png">
+  <img align="center" alt="#" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
   <img align="center" alt="#" width="33" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
   <img align="center" alt="#" height="30" width="40" src="https://spring.io/img/projects/spring-boot.svg">
   <img align="center" alt="#" height="30" width="35" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
