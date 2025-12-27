@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Menezes! 👋
 
-### Desenvolvedor Full Stack | Java, Spring Boot, React Native & Node.js
+### Desenvolvedor Full Stack | Java, Spring Boot, PHP, React Native & Node.js
 
 Sou um entusiasta da tecnologia apaixonado por transformar ideias em soluções digitais eficientes. Atualmente, foco no desenvolvimento de aplicações web e mobile, buscando sempre as melhores práticas de mercado.
 
@@ -26,6 +26,7 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em soluções 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
