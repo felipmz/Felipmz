@@ -42,14 +42,15 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em soluções 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Atividades no GitHub
 
-<div>
-  <a href="https://github.com/felipmz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipmz&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-  
-  </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipmz&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipmz&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
