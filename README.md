@@ -14,7 +14,7 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em soluções 
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React Native" height="30" src="https://blog.kakaocdn.net/dna/cpP69X/btsOTYTQtYt/AAAAAAAAAAAAAAAAAAAAAFNKgr452tHwewKCHqKSh59Xt_42HGnlwDb1Qj4u6iXy/tfile.svg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1769871599&allow_ip=&allow_referer=&signature=tsiTgH13AdzewonMQyElbiXU6gE%3D">
+  <img align="center" alt="React Native" height="45" src="https://blog.kakaocdn.net/dna/cpP69X/btsOTYTQtYt/AAAAAAAAAAAAAAAAAAAAAFNKgr452tHwewKCHqKSh59Xt_42HGnlwDb1Qj4u6iXy/tfile.svg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1769871599&allow_ip=&allow_referer=&signature=tsiTgH13AdzewonMQyElbiXU6gE%3D">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
