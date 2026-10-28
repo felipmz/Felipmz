@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Menezes! 👋
+# Olá, eu sou Felipe Menezes! 👋
 
 ### Desenvolvedor Full Stack | Java, Spring Boot, PHP, React Native & Node.js
 
